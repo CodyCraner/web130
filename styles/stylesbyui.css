@@ -1,0 +1,38 @@
+
+
+body{
+    font-size: 6;
+    text-align: center;
+}
+a{
+    font-size: 1.5em;
+    padding: 2%;
+    border: 2px solid aquamarine;
+}
+
+h1{
+    text-align: center;
+}
+
+nav, footer {
+    background-color: steelblue;
+    color: white;
+    padding: 2%;
+    text-align: left;
+}
+
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
+
+a:hover {
+    background-color: white;
+    color: steelblue;
+}
+img {
+    width: 30%;
+    margin: 5%;
+}
+
+

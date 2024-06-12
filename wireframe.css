@@ -1,0 +1,9 @@
+.first-menu a:link, .first-menu a:visited{
+    color: rgb(0, 173, 156);
+}
+
+.hero-banner{
+    width: 100%;
+    background-image: url('..//WDD130/images/cody.jpg');
+    height: 500px;
+}
