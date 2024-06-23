@@ -5,7 +5,7 @@
 --paragraph-font: Eczar, Helvetica, sans-serif;
 }
 
-#content{
+.content{
     max-width: 1600px;
     margin: 0 auto;
     font-family: var(--paragraph-font) ;
@@ -52,7 +52,7 @@ header{
     border: 5px;
     color: blueviolet;
 }
-#logo_id{
+.logo_id{
     padding-top: 5px;
 }
 nav a{
@@ -200,6 +200,9 @@ footer .social img{
     }
 .logo{
     width: 80px;
+}
+.faq-text{
+    padding: 10%;
 }
 
 
